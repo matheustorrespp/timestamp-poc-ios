@@ -1,0 +1,20 @@
+[PERFORMANCE] +load at 780556778.777864 (first)
+[PERFORMANCE] __attribute__ at 780556778.777915 (+5.1021575927734375e-05)
+[PERFORMANCE] __c__ at 780556778.777922 (+7.033348083496094e-06)
+[PERFORMANCE] main.swift start at 780556778.778829 (+0.0009069442749023438)
+[PERFORMANCE] AppDelegate static attribute at 780556778.803446 (+0.02461707592010498)
+[PERFORMANCE] VC init at 780556778.815189 (+0.011742949485778809)
+[PERFORMANCE] VC viewDidLoad at 780556778.816278 (+0.0010889768600463867)
+[PERFORMANCE] didFinishLaunchingWithOptions at 780556778.82621 (+0.00993204116821289)
+[PERFORMANCE] VC viewDidAppear at 780556778.854477 (+0.0282670259475708)
+====== PERFORMANCE REPORT ======
++load: 780556778.777864
+__attribute__: +0.000s
+__c__: +0.000s
+main.swift start: +0.001s
+AppDelegate static attribute: +0.025s
+VC init: +0.012s
+VC viewDidLoad: +0.001s
+didFinishLaunchingWithOptions: +0.010s
+VC viewDidAppear: +0.028s
+=================================
